@@ -1,6 +1,6 @@
 
 import './App.css';
-import Loginpage from './components/Loginpage';
+import Loginpage from './views/LoginPage/Loginpage';
 
 function App() {
   return (
