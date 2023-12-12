@@ -10,11 +10,11 @@
   place-items: center;
 }
 .login-bg {
-  background: url("./assets/loginbg.jpg");
+  background: url("../assets/loginbg.jpg");
   background-size: cover;
 }
 .reset-bg {
-  background: url("./assets/reset-bg.jpg");
+  background: url("../assets/reset-bg.jpg");
   background-size: cover;
 }
 

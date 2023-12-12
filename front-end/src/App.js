@@ -1,6 +1,6 @@
-
+import logo from './logo.svg';
 import './App.css';
-import Loginpage from './views/LoginPage/Loginpage';
+import Loginpage from './components/Loginpage';
 
 function App() {
   return (
